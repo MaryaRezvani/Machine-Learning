@@ -1,4 +1,4 @@
 # Machine-Learning
 Exercises to implement machine learning algorithms with Python
-### Professor: Dr. Salimi
+### Professor: Dr. Javad Salimi Sartakhti
 ### Kashan University-Autumn 1402
